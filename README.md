@@ -857,6 +857,7 @@ Enterprise-level, multi-language synthesis
 **[Kaedim](https://kaedim3d.com)** – 2D→3D meshes for games  
 **[Masterpiece Studio](https://www.masterpiecestudio.com)** – 3D character gen/rigging  
 **[CSM.ai](https://csm.ai)** – Text/image→3D model generation  
+**[Image3D](https://image3d.io/)** – Image-to-3D generation with GLB, OBJ, STL, and PLY exports  
 **[TripoSR / OpenLRM](https://github.com/VAST-AI/TripoSR)** – Single-image→3D (open-source)  
 **Stability "Virtual Mode"** – 3D/4D camera/view tools (2025 updates)  
 
