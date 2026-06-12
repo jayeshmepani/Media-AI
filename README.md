@@ -215,6 +215,13 @@
 - **Pricing:** Free unlimited via [Google Labs](https://labs.google/fx)  
 - **Comparison:** Like Imagen 4 but lighter—15% faster than free DALL-E for quick sketches
 
+**[igly.ai](https://igly.ai)** ⭐ NEW  
+- Browser-based AI image editing platform for background removal, inpainting, upscaling, and generative fill.  
+- Focused on practical creator and ecommerce workflows such as product photo cleanup, campaign visuals, and fast social image edits.  
+- **Best For:** Product images, creator visuals, quick background/object edits, and lightweight generative fill.  
+- **Demo:** [YouTube walkthrough](https://www.youtube.com/watch?v=HB2E1WZ12is)  
+- **Comparison:** More focused than full Photoshop workflows; broader than single-purpose background removal tools.
+
 **[ByteDance SeedDream 4.0](https://timesofindia.indiatimes.com/technology/tech-news/bytedance-launches-nano-banana-rival-seedream-4-0-next-gen-ai-images-highlights-and-advantages/articleshow/123836794.cms)** ⭐ NEW  
 - Chinese text-to-image model (TikTok parent, 2025 open beta)  
 - Multimodal (text+video seeds); high adherence for dynamic scenes  
