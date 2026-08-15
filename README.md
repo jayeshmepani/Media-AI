@@ -554,6 +554,14 @@
 - **Pricing:** Free tier (5 clips/month) | Pro $29/month
 - **Comparison:** Pre-production boost over [Morph Studio](https://www.morphstudio.com); pairs with [Runway](https://runwayml.com) [Aleph 2.0](https://runwayml.com/product/aleph-2) for full workflow
 
+**[cv.cm/v](https://cv.cm/v)** (Cloud Clipboard AI Studio)
+
+- Web studio providing **queue-free, full-power [Seedance 2.0](https://seed.bytedance.com/en/blog/official-launch-of-seedance-2-0)** text-to-video and image-to-video, plus image generation (gpt-image-2 / Seedream)
+- Node-graph canvas for chaining generations and a REST API for programmatic access
+- No signup required to try; new users get 100 free credits
+- **Best For:** Fast Seedance 2.0 access without a queue, multimodal experiments, API-driven video workflows
+- **Pricing:** Free credits on signup | pay-as-you-go credits
+
 **[xAI Grok Imagine](https://grok.com)**
 
 - Image/video generation in [Grok](https://grok.com)/X platform
