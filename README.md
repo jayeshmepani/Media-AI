@@ -658,6 +658,7 @@
 **[Meta EMU Video](https://ai.meta.com/blog/emu-video/)** – Text→image→video research pipeline
 **[Fliki](https://fliki.ai)** – Text-to-video with AI voiceovers
 **[InVideo AI](https://invideo.io/ai)** – Script-to-video automation
+**[videos.social](https://videos.social/?utm_source=media-ai&utm_medium=directory&utm_campaign=listing-wave-d)** – Blog/PDF/prompt to editable faceless video. 1 free render. 1 credit = 1 render.
 **[Pictory 2.0](https://pictory.ai)** ⭐ NEW Q1 2026
 
 - Complete AI video platform with avatars, generative visuals, and interactive hosting
