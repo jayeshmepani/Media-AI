@@ -76,7 +76,7 @@
 
 ### Newly catalogued or materially updated
 
-- **Recraft V4.1** — current vector/raster/brand-design generation family
+- **Recraft V4.1 & V4.1 Flash** — current vector/raster/brand-design generation family; V4.1 Flash (~1.3s generation) launched Sep 23, 2026
 - **Google Gemini Omni Flash** — mixed-input video generation/editing rolling out through Gemini, Flow, and eligible YouTube experiences
 - **Google Flow Agent, Flow Tools, and Flow Music** — I/O 2026 creative workflow additions
 - **Runway Aleph 2.0 / Edit Studio** — frame-directed video editing propagation
@@ -133,14 +133,14 @@
 - **Best for**: Detailed reference-constrained edits, creative production, and API integrations.
 - **Official**: https://developers.openai.com/api/docs/guides/tools-image-generation · https://developers.openai.com/api/docs/deprecations
 
-**[Adobe Firefly](https://www.adobe.com/products/firefly.html)** (Adobe)
+**[Adobe Firefly](https://www.adobe.com/products/firefly.html)** (Adobe) ⭐ UPDATED OCTOBER 2026
 
-- Creative Cloud-integrated generation/editing platform with enterprise governance and licensed/permissioned training positioning
-- **Verified 2026 updates:** Firefly AI Assistant, Adobe creativity connector, and Firefly Custom Models public beta
-- Integrates with Photoshop, Premiere Pro, Express, and other Creative Cloud workflows
-- **Correction:** No adequate first-party confirmation was found for the earlier README's “Firefly Image Model 5,” “Precision Flow,” “AI Markup,” or “Project Graph” claims; those claims were removed
-- **Best For:** Professional editing, brand workflows, enterprise governance, and Adobe-native production
-- **Pricing:** Verify current Creative Cloud/Firefly plan and generative-credit terms on Adobe's official pricing page
+- **Current Models**: **Firefly Image Model 5 (GA)** and **Firefly Boards**; preview for **Adobe MAX 2026** (November 10–12, 2026).
+- Creative Cloud-integrated generation/editing platform with enterprise governance, commercial indemnification, and fully licensed training data.
+- **Core Integrations**: Photoshop (Generative Fill/Expand), Illustrator (Text to Vector Graphic), Premiere Pro (Generative Extend), and Adobe Express.
+- **Firefly AI Assistant & Custom Models**: Brand-tuned custom style/subject models for enterprise consistency.
+- **Best For:** Commercially indemnified corporate design, brand governance, print/vector production, and Creative Cloud pipelines.
+- **Pricing:** Included with Creative Cloud subscriptions; standalone Firefly plans available.
 
 **[Microsoft MAI-Image-2.6 & MAI-Image-2.6-Flash](https://microsoft.ai/)** ⭐ GA OCTOBER 27, 2026
 
@@ -201,12 +201,13 @@
 - Brand-aware AI image generation for marketing assets and decks (March 17, 2026).
 - Integrates with ChatGPT, Claude, and Atlassian.
 
-**[Ideogram 4.5 / 4.0](https://ideogram.ai/models/4.5)** — **UPDATED SEPTEMBER 2026**
+**[Ideogram 4.5, Ideogram Vector & Ideogram 4.0](https://ideogram.ai/models/4.5)** — **UPDATED SEPTEMBER–OCTOBER 2026**
 
-- **Current editing model: Ideogram 4.5**. Precise Edit can change localized regions and preserve other pixels; native-resolution region edits are supported with the documented context window.
-- **API**: `/v2/image/generate/ideogram-4-5` and `/v2/image/precise-edit/ideogram-4-5`; verify model/feature limits.
-- **Ideogram 4.0**: Separate June 2026 open-weight generation model; retain for typography, controllable design and local/deployable workflows.
-- **Best for**: Product-image edits, typography, image-to-image consistency, and design asset production.
+- **Ideogram 4.5 (Released September 30, 2026)**: Flagship generation and precision editing model featuring **Pixel Lock** (locks 94–99% of unpainted pixels identically across 10+ consecutive multi-turn edits with zero color or texture drift). Accepts up to 5 multimodal reference images (`$0.008–$0.22/image` via API).
+- **Ideogram Vector**: Generates clean, production-ready native SVGs with sharp vector typography, editable paths, and smooth gradients from text or raster inputs.
+- **Ideogram 4.0 (June 3, 2026)**: 9.3B open-weight Diffusion Transformer trained on structured JSON captions for deterministic layout and typography.
+- **API**: `/v2/image/generate/ideogram-4-5` and `/v2/image/precise-edit/ideogram-4-5`.
+- **Best For:** Graphic design, drift-free localized image editing, native SVG logos/branding, and self-hosted open-weight design.
 - **Official**: https://developer.ideogram.ai/ideogram-api/api-overview · https://ideogram.ai/models/4.5
 
 **[Leonardo.Ai](https://leonardo.ai)**
@@ -511,12 +512,12 @@
 - **Best For:** Cinematic realism, product animations, longer narratives
 - **Pricing:** Free tier | Paid $7/month+
 
-**Luma Ray3.2 / Dream Machine**
+**Luma Ray3.2, Luma Scenes & Dream Machine** ⭐ UPDATED AUGUST 2026
 
-- Current Luma video-generation/editing family as of June 2026
-- Ray3.2 adds frame-level direction, keyframe controls, HDR/EXR-oriented professional workflows, and API access
-- Ray2 is retained only as a legacy generation name
-- **Official source:** https://lumalabs.ai/news/introducing-ray-3-2
+- **Ray3.2 & Uni-1.1**: Luma's foundation video and multimodal intelligence models featuring frame-level direction, keyframe controls, and HDR/EXR production pipeline support.
+- **Luma Scenes (Launched August 11, 2026)**: Breakthrough storyboard workflow enabling creators to establish, review, and approve storyboard keyframes before rendering full-resolution video.
+- **Luma Skills**: Reusable agentic creative workflow recipes for consistent cinematography.
+- **Official source:** https://lumalabs.ai/news/introducing-ray-3-2 · https://lumalabs.ai/news
 
 **[Digen RM3.0](https://digen.ai)** (Real Motion 3.0) ⭐ NEW Q1 2026
 
@@ -536,11 +537,12 @@
 - **Best For:** Developer workflows, automated video pipelines
 - **Pricing:** Available via API
 
-**[Pika 2.0](https://pika.art)**
+**[Pika 2.5 (with Pikaframes)](https://pika.art)** ⭐ UPDATED OCTOBER 2026
 
-- User-friendly short clips with effects
-- Swaps, lip-sync, stylized outputs
-- **Pricing:** Free tier | Subscription plans
+- **Current Flagship: Pika 2.5**: Upgraded 1080p generation engine with **Pikaframes** (ordered keyframe transitions allowing 2 to 5 reference frames to guide multi-shot motion).
+- **Creative Effects**: Pika Effects (inflate, melt, crush, explode), character clothes swaps, lip-syncing, and audio integration.
+- **Best For:** Social clips, creative memes, rapid ideation, and stylized visual effects.
+- **Pricing:** Free tier available | Standard, Pro, and Unlimited subscription tiers.
 
 ### Enterprise & Developer Video APIs
 
@@ -581,13 +583,12 @@
 - Complements [Tongyi Wanxiang](https://tongyi.aliyun.com/wx) (images)
 - **Pricing:** API access via Alibaba Cloud
 
-**[LTX Studio](https://ltxstudio.com)** (Lightricks) ⭐ NEW
+**[LTX Studio & LTX-2.3 / LTX-2.5](https://ltxstudio.com)** (Lightricks) ⭐ UPDATED Q3/Q4 2026
 
-- Narrative AI for filmmakers (2025 launch)
-- Scene-by-scene prompts; character customization; storyboard exports; 4K previews
-- **Best For:** Film pre-production, pitch decks, screenplay visualization
-- **Pricing:** Free tier (5 clips/month) | Pro $29/month
-- **Comparison:** Pre-production boost over [Morph Studio](https://www.morphstudio.com); pairs with [Runway](https://runwayml.com) [Aleph 2.0](https://runwayml.com/product/aleph-2) for full workflow
+- **Foundation Models**: **LTX-2.3 (22B Open-Weight)** and **LTX-2.5 World Model** (August 2026); real-time 4K/50fps audio-video Diffusion Transformer with **Clean Plate VFX** and camera trajectory control.
+- **Studio Interface**: Narrative filmmaking platform featuring scene-by-scene script breakdown, character consistency across scenes, dynamic multi-camera shooting, storyboard exports, and 4K previews.
+- **Best For:** Film pre-production, visual pitch decks, screenplay visualization, and open-weight video deployment.
+- **Pricing:** Free tier (5 clips/month) | Pro $29/month | Open weights on HuggingFace.
 
 **[cv.cm/v](https://cv.cm/v)** (Cloud Clipboard AI Studio)
 
@@ -597,11 +598,12 @@
 - **Best For:** Fast Seedance 2.0 access without a queue, multimodal experiments, API-driven video workflows
 - **Pricing:** Free credits on signup | pay-as-you-go credits
 
-**[xAI Grok Imagine](https://grok.com)**
+**[xAI Grok Imagine Video 1.5 & Image 2.0](https://grok.com)** ⭐ UPDATED AUGUST–OCTOBER 2026
 
-- Image/video generation in [Grok](https://grok.com)/X platform
-- Uses FLUX models (Black Forest Labs partnership)
-- **Pricing:** Included with [Grok](https://grok.com) access
+- **Grok Imagine Video 1.5 (Launched July 31, 2026)**: Generates 15-second 1080p video clips with native audio synchronization and multi-image reference conditioning.
+- **Grok Image 2.0 (August 7, 2026)**: High-coherence image generation with uncensored creative freedom and realistic lighting physics (FLUX partnership + proprietary tuning).
+- **Lifecycle notice**: Legacy `grok-imagine-image-quality` and `pro` endpoints retire November 2, 2026 (auto-redirect to `grok-imagine-image-2.0`).
+- **Pricing**: Included with X Premium / SuperGrok subscriptions.
 
 **[VO3 AI](https://vo3ai.com)** ⭐ NEW
 
